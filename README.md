@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SilahicAmil
-- 🌱 I’m currently learning ... ReactJS 
-- 💞️ I’m looking to collaborate on ... Web Development Projects
+- 🌱 I’m currently learning ... Data Science
+- 💞️ I’m looking to collaborate on ... Data Science / Anaylsis Projects
 - 📫 How to reach me ... jinobie02@gmail.com
 
 <!---
