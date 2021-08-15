@@ -3,7 +3,7 @@
 
 
 
-- 💻 Currently working on developing my machine learning skills. Building machine learning models utilizing state of the art algorithms. My aim is to learn machine learning and research and develop my own algorithms.
+- 💻 Currently working on developing my machine learning skills. Building machine learning models utilizing state of the art algorithms. My aim is to research and develop my own algorithms.
 - 👨🏽‍💻 Currently growing my skillset in [Machine Learning](https://github.com/SilahicAmil/End-To-End-Time-Series-Forcasting).
 
 **My Reseach Interest**:
@@ -13,15 +13,15 @@
 
  **I am open to**:
 
-- Any collobration work
+- Collaboration work
 - Machine learning projects(development, research or visualization)
-- Research internships
-- 
+- Machine Learning internships
+
 
 ## What I am Reading:
 
 **My Monthly Reading List**
-- [N-BEATS: NEURAL BASIS EXPANSION ANALYSIS FOR INTERPRETABLE TIME SERIES FORECASTING](https://arxiv.org/pdf/1905.10437.pdf)
+- [N-BEATS Algorithm Research Paper](https://arxiv.org/pdf/1905.10437.pdf)
 - [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 - [Forecasting Principles and Practice](https://otexts.com/fpp3/)
 
@@ -34,6 +34,5 @@
 
 </p>
 
+![SilahicAmil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilahicAmil&show_icons=true&theme=gruvbox)
 
-[![SilahicAMil's github stats](https://github-readme-stats.vercel.app/api?username=SilahicAmil&theme=algolia&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![SilahicAmil's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilahicAmil&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
