@@ -8,5 +8,3 @@ SilahicAmil/SilahicAmil is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SilahicAmil&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
