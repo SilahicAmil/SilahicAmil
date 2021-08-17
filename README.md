@@ -8,6 +8,7 @@
 
 **My Reseach Interest**:
 - Forecasting
+- Classification
 - NLP
 
 
