@@ -35,5 +35,4 @@
 
 </p>
 
-![SilahicAmil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilahicAmil&show_icons=true&theme=gruvbox)
 
