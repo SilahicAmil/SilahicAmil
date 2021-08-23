@@ -1,4 +1,4 @@
-## Hi there, I'm Amil Silahic 👋
+## Hi there, I'm Amil Silahic
 
 
 
