@@ -1,16 +1,13 @@
-## Hi there, I'm Amil Silahic
+## I'm Amil Silahic
 
 
-
-
-- 💻 Currently working on developing my machine learning skills. Building machine learning models utilizing state of the art algorithms. My aim is to research and develop my own algorithms.
-- 👨🏽‍💻 Currently growing my skillset in [Machine Learning](https://github.com/SilahicAmil/End-To-End-Time-Series-Forcasting).
+- Currently working on developing my machine learning skills. Building machine learning models utilizing state of the art algorithms. My aim is to research and develop my own algorithms.
+- Growing my skillset in [Machine Learning](https://github.com/SilahicAmil/30-Days-Of-ML).
 
 **My Reseach Interest**:
-- Forecasting
 - Classification
 - NLP
-
+- EDA
 
  **I am open to**:
 
@@ -21,10 +18,13 @@
 
 ## What I am Reading:
 
-**My Monthly Reading List**
-- [N-BEATS Algorithm Research Paper](https://arxiv.org/pdf/1905.10437.pdf)
+**My Monthly Reading/ Watch List**
+- [PubMed 200k RCT: a Dataset for Sequential Sentence Classification in Medical Abstracts](https://arxiv.org/abs/1710.06071)
 - [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
-- [Forecasting Principles and Practice](https://otexts.com/fpp3/)
+- [Feed Forward Nueral Network](https://towardsdatascience.com/deep-learning-feedforward-neural-network-26a6705dbdc7)
+- [Stanford's CS224n (NLP)](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+
+
 
 ## Connect with me:
 
