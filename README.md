@@ -1,27 +1,26 @@
 ## I'm Amil Silahic
 
 
-- Currently working on developing my machine learning skills. Building machine learning models utilizing state of the art algorithms. My aim is to research and develop my own algorithms.
+- Currently working on developing my machine learning skills. Building machine learning models utilizing state of the art algorithms. My aim is to research and develop my own algorithms in the future.
 - Growing my skillset in [Machine Learning](https://github.com/SilahicAmil/30-Days-Of-ML).
 
 **My Reseach Interest**:
 - Classification
 - NLP
-- EDA
+- Visualization of data
 
  **I am open to**:
 
-- Collaboration work
 - Machine learning projects(development, research or visualization)
-- Machine Learning internships
+- Machine learning internships
 
 
 ## What I am Reading:
 
 **My Monthly Reading/ Watch List**
+- [Honds-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Foundations of Statistical Natural Language Processing](https://www.amazon.com/Foundations-Statistical-Natural-Language-Processing/dp/0262133601)
 - [PubMed 200k RCT: a Dataset for Sequential Sentence Classification in Medical Abstracts](https://arxiv.org/abs/1710.06071)
-- [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
-- [Feed Forward Nueral Network](https://towardsdatascience.com/deep-learning-feedforward-neural-network-26a6705dbdc7)
 - [Stanford's CS224n (NLP)](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
 
