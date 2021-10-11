@@ -2,7 +2,7 @@
 
 
 - Currently working on developing my machine learning skills. Building machine learning models utilizing state of the art algorithms. My aim is to research and develop my own algorithms in the future.
-- Growing my skillset in [Machine Learning](https://github.com/SilahicAmil/30-Days-Of-ML).
+- Growing my skillset in [Machine Learning](https://github.com/SilahicAmil/Hands-On-Machine-Learning).
 
 **My Reseach Interest**:
 - Classification
