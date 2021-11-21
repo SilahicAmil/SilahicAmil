@@ -32,6 +32,9 @@
 [<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/amilsilahic)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/amil-silahic-4b5a01140/)
 
+![Amil's GitHub stats](https://github-readme-stats.vercel.app/api?username=silahicamil&show_icons=true&theme=radical)
+
+
 </p>
 
 
