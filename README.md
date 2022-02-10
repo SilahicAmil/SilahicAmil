@@ -1,21 +1,23 @@
 ## I'm Amil Silahic
 
 
-- Currently working on developing my machine learning skills. Building machine learning models utilizing state of the art algorithms. My aim is to research and develop my own image classification model for autonomous vehicles.
+- Currently working on developing my machine learning skills. Building machine learning models utilizing state of the art algorithms. My aim is to research and develop my own NLP Models.
 
 
 **My Interest**:
-- Computer Vision
 - NLP
-- Visualization of data
+- Statistical NLP
+- DataViz
 
 
 ## What I am Reading:
 
 **My Monthly Reading/ Watch List**
-- [Honds-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- [Introduction to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/)
-- [End-to-end Learning of Driving Models from Large-scale Video Datasets](https://arxiv.org/pdf/1612.01079v2.pdf)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Foundations of Statistical NLP](https://nlp.stanford.edu/fsnlp/)
+- [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&ab_channel=stanfordonline)
+- [Speech and Language Processing 3rd Edition - Jurafsky and Martin](https://web.stanford.edu/~jurafsky/slp3/)
+- [Ace the Data Science Interview](https://www.acethedatascienceinterview.com/)
 
 
 
