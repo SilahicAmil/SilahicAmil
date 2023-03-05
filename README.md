@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning on creating seamless and interactive React sites, and React Native apps<br>🔭 I’m currently working on honning in my React skills to create sites and mobile apps<br>💬 Ask me about - React!<br>⚡ Fun fact - I started Web Development when I was 16!
+🌱 I’m currently learning on creating seamless and interactive web sites, and mobile apps<br>🔭 I’m currently working on creating SaaS products with React and various stacks. I've also experimented with Machine Learning and Data Engineering.<br>💬 Ask me about - Web Technologies or Machine Learning!<br>⚡ Fun fact - I made my first website when I was 16 in PHP ( ~ Version 7.0.1)
 
 
 ## 🌐 Socials: 
