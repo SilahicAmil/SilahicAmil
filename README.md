@@ -1,20 +1,40 @@
-# 💫 About Me:
-🌱 I’m currently learning on creating seamless and interactive web sites, and mobile apps<br>🔭 I’m currently working on creating SaaS products with React and various stacks. I've also experimented with Machine Learning and Data Engineering.<br>💬 Ask me about - Web Technologies or Machine Learning!<br>⚡ Fun fact - I made my first website when I was 16 in PHP ( ~ Version 7.0.1)
+# Amil Silahic
 
+Full-stack software engineer with a strong backend focus. I build scalable web applications, APIs, and developer tools, and I enjoy working on performance-critical systems, legacy modernization, and clean architecture.
 
-## 🌐 Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amil-silahic-4b5a01140) 
-[![Website](https://img.shields.io/badge/-Website-orange)](https://amil.dev) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-# 📊 GitHub Stats:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=silahicamil&theme=dark&hide_border=true)](https://git.io/streak-stats)<br/>
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I’m particularly interested in backend engineering, distributed systems, and Go-based services, while remaining comfortable across the frontend when needed.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=silahicamil&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## About Me
+
+- Currently focused on system design, backend architecture, and performance optimization
+- Building SaaS products, internal tools, and real-time applications
+- Interested in distributed systems, Go services, data engineering, and developer tooling
+- Happy to talk about web technologies, backend systems, and scaling applications
+- Built my first website at 16 using PHP (~7.0.1)
+
+---
+
+## Links
+
+- LinkedIn: https://linkedin.com/in/amil-silahic-4b5a01140  
+- Website: https://amil.dev  
+
+---
+
+## What I Like Building
+
+- Go-based CLIs, APIs, and backend services
+- Real-time systems and messaging platforms
+- SaaS products and internal developer tools
+- High-traffic APIs and performance-critical services
+- Large legacy codebase refactors
+
+---
+
+## Currently Exploring
+
+- Distributed systems concepts
+- Go performance, concurrency, and benchmarking
+- System design trade-offs at scale
